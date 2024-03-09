@@ -80,6 +80,7 @@ function company_options($container)
 
                 //social_media_perusahaan
                 Field::make('complex', 'social_media_perusahaan', 'Social Media Perusahaan')
+                    ->set_layout('tabbed-horizontal')
                     ->add_fields([
 
                         Field::make('text', 'nama_social_media', 'Nama Social Media')

@@ -1,1 +1,1 @@
-WP Sebar adalah tema WordPress dengan genre berita.
+Compro adalah tema Wodpress untuk website company profile yang dilengkapi dengan blogging system. Dengan desain yang elegan dan modern, Compro sangat cocok untuk website company profile perusahaan Anda. Compro juga dilengkapi dengan fitur-fitur yang sangat lengkap dan mudah digunakan. Compro sangat cocok untuk perusahaan yang ingin memiliki website company profile yang elegan dan modern.
